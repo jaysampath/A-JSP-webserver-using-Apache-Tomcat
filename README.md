@@ -2,7 +2,7 @@
 
 <p> A webserber using Java Server Pages (JSP) is built on Apache Tomcat Server using Eclipse IDE. The user can search and download files from web server </p>
 
-<p> <strong> Tech Stack: </strong> Tomcat v9.0, Eclipse IDE for Java EE 2021, HTTP Protocol - 'doGet()', HTML and CSS  </p>
+<p> <h3> Tech Stack: </h3> Tomcat v9.0, Eclipse IDE for Java EE 2021, HTTP Protocol - 'doGet()', HTML and CSS  </p>
 
 <h2> Features </h2>
 
