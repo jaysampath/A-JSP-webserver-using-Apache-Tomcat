@@ -1,0 +1,5 @@
+So it turns out minsum is pretty useful approximation, now need to improve approximation. Instead of
+ just taking the minimum of two values, we take some constants a and b multiply with that and add b.
+Typically scaling is not preferred. We just used minimum minus some offset. Subtracting with
+ some offset makes it more accurate. Offset min sum approximation is the added modification to the above
+ algorithm. Our implementation used a small offset minsum with layering on our proposed decoder.

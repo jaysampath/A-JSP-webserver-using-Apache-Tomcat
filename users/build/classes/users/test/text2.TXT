@@ -1,0 +1,5 @@
+In the previous chapter, we have specified the working of the proposed LDPC decoder for 5G
+ wireless communications standard. We have described how we used the local structure very
+ efficiently to do operations and improve our beliefs and how we combined different
+ messages coming from the local structure iteratively in a very smart way using very
+ extensive information

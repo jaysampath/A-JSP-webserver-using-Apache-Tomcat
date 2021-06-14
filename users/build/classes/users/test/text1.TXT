@@ -1,0 +1,6 @@
+To approximate this, there is a useful reason. It is good to have lesser computations and 
+it is close enough to actual the exact completion. So the minsum approximation is the best
+ thing to do here.We saw this before, the absolute value is dominated by the minimum of
+ these values. So let us say if the computation of non-linear function has really no
+ loss in practice, so usually we can do a little offset as well, we will implement it
+ in the decoder.

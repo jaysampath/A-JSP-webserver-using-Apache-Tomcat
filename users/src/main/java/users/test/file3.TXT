@@ -1,0 +1,9 @@
+In the previous chapter, LDPC encoding and decoding approach illustrates the 
+necessity of high throughput and low latency. Our objective is to design an architecture for the 
+5G channel that promises higher throughputs with lower latency. The proposed architecture reflects
+ the advantages offered by HLS.
+
+A partial parallel and full pipelined is used for the proposed decoding technique. This design exploits
+ the advantages of FPGA. Partial parallel means that this design starts updating multiple rows and columns
+ at the same time. Full pipeline refers to the ability of HLS to update a row and a column in a single
+ clock cycle. 
